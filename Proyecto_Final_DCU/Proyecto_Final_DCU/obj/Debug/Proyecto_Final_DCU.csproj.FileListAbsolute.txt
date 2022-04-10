@@ -1,0 +1,11 @@
+C:\Users\ACER\Documents\ITLA\C4\Diseño Centrado en el Usuario\Proyectos\Proyecto_Final_DCU\Proyecto_Final_DCU\bin\Debug\Proyecto_Final_DCU.exe.config
+C:\Users\ACER\Documents\ITLA\C4\Diseño Centrado en el Usuario\Proyectos\Proyecto_Final_DCU\Proyecto_Final_DCU\bin\Debug\Proyecto_Final_DCU.exe
+C:\Users\ACER\Documents\ITLA\C4\Diseño Centrado en el Usuario\Proyectos\Proyecto_Final_DCU\Proyecto_Final_DCU\bin\Debug\Proyecto_Final_DCU.pdb
+C:\Users\ACER\Documents\ITLA\C4\Diseño Centrado en el Usuario\Proyectos\Proyecto_Final_DCU\Proyecto_Final_DCU\obj\Debug\Proyecto_Final_DCU.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\ITLA\C4\Diseño Centrado en el Usuario\Proyectos\Proyecto_Final_DCU\Proyecto_Final_DCU\obj\Debug\Proyecto_Final_DCU.FormPrincipal.resources
+C:\Users\ACER\Documents\ITLA\C4\Diseño Centrado en el Usuario\Proyectos\Proyecto_Final_DCU\Proyecto_Final_DCU\obj\Debug\Proyecto_Final_DCU.Properties.Resources.resources
+C:\Users\ACER\Documents\ITLA\C4\Diseño Centrado en el Usuario\Proyectos\Proyecto_Final_DCU\Proyecto_Final_DCU\obj\Debug\Proyecto_Final_DCU.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\ITLA\C4\Diseño Centrado en el Usuario\Proyectos\Proyecto_Final_DCU\Proyecto_Final_DCU\obj\Debug\Proyecto_Final_DCU.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\ITLA\C4\Diseño Centrado en el Usuario\Proyectos\Proyecto_Final_DCU\Proyecto_Final_DCU\obj\Debug\Proyecto_Final_DCU.exe
+C:\Users\ACER\Documents\ITLA\C4\Diseño Centrado en el Usuario\Proyectos\Proyecto_Final_DCU\Proyecto_Final_DCU\obj\Debug\Proyecto_Final_DCU.pdb
+C:\Users\ACER\Documents\ITLA\C4\Diseño Centrado en el Usuario\Proyectos\Proyecto_Final_DCU\Proyecto_Final_DCU\obj\Debug\Proyecto_Final_DCU.FormEstudiantes.resources
